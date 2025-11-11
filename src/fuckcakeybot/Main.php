@@ -14,3 +14,5 @@ class Main extends PluginBase {
 
     protected function onEnable() : void{
         $this->getServer()->getLogger()->("You do know that Fate OR Carl bot exists smh no need for this unknown bot who knows it may carru viruses"):
+    }
+}
