@@ -13,6 +13,6 @@ class Main extends PluginBase {
     }
 
     protected function onEnable() : void{
-        $this->getLogger()->("You do know that Fate OR Carl bot exists smh no need for this unknown bot who knows it may carru viruses"):
+        $this->getLogger()->info("You do know that Fate OR Carl bot exists smh no need for this unknown bot who knows it may carru viruses"):
     }
 }
