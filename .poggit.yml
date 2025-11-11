@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/VortexHubDevelopment/FuckPMMP-Fuck-everyone-RIP-PMMP-2014-2025-
+build-by-default: true
+branches:
+- main
+projects:
+  FuckPMMP-Fuck-everyone-RIP-PMMP-2014-2025-:
+    path: ""
+...
