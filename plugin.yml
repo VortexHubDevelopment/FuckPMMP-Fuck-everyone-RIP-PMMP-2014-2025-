@@ -2,4 +2,4 @@ name: FuckPMMP
 version: 1.0.0
 author: "NO ONE LIKES YOU"
 api: 5.0.0
-main; fuckcakeybot\Main
+main: fuckcakeybot\Main
